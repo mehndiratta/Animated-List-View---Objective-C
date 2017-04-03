@@ -10,7 +10,7 @@
 #import "FemaleDetailServicesVC.h"
 #import <CoreLocation/CoreLocation.h>
 #import "CNPPopupController.h"
-#praga mark ==================================== Animation ======================================
+
 @interface ServicesVC ()<CLLocationManagerDelegate,UIAlertViewDelegate,CNPPopupControllerDelegate>
 {
     UIButton *aButton;
